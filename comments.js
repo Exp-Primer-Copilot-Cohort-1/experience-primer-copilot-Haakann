@@ -40,4 +40,4 @@ http.createServer(function (req, res) {
             res.end(data);
         });
     }
-}).listen(8000, '
+}).listen(8000);
